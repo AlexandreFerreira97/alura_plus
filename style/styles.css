@@ -11,5 +11,6 @@
 }
 
 body{
-    background-color: #00030C;
+    box-sizing: border-box;
+    background-color: var(--cor-fundo);
 }
