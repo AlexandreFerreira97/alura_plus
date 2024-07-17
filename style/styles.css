@@ -81,3 +81,14 @@ body{
 .img__secundaria{
     width: 80%;
 }
+
+.descricao__titulo{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1rem;
+}
+
+.descricao__texto{
+    color: var(--cinza-secundaria);
+}
