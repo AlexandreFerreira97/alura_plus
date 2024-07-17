@@ -17,10 +17,14 @@ body{
 }
 
 .principal{
-    background-image: url("imgs/Background.png");
+    background-image: url("../imgs/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
 .container{
-    width: 100vh;
+   height: 100vh;
+}
+
+.container__botao{
+    text-decoration: none;
 }
