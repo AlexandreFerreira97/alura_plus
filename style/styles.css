@@ -29,4 +29,6 @@ body{
     text-decoration: none;
     background-color: var(--botao-azul);
     border-radius: 5px;
+    padding: 1rem;
+    color: var(--branco-principal);
 }
