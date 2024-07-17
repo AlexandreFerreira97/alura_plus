@@ -72,3 +72,12 @@ body{
     font-size: 12px;
     color: var(--cinza-secundaria);
 }
+
+.secundario{
+    align-items: center;
+    margin: 0 10rem;
+}
+
+.img__secundaria{
+    width: 80%;
+}
