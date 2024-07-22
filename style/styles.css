@@ -64,6 +64,10 @@ body{
     margin-bottom: 1rem;
 }
 
+.container__descricao{
+    padding: 2rem;
+}
+
 .container__img{
     margin: 1rem 0rem 2rem 0rem;
 }
@@ -91,4 +95,9 @@ body{
 
 .descricao__texto{
     color: var(--cinza-secundaria);
+}
+
+.secundario__botao{
+    margin-top: 1rem;
+    display: inline-block;
 }
