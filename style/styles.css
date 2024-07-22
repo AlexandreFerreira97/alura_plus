@@ -101,3 +101,19 @@ body{
     margin-top: 1rem;
     display: inline-block;
 }
+
+.dispositivos{
+    display: flex;
+    flex-direction: column;
+}
+
+.dispositivos__titulo{
+    display: flex;
+    flex-direction: row;
+}
+
+.dispositivos__lista{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none
+}
