@@ -162,3 +162,17 @@ body{
 .lista__link:hover{
     color: var(--botao-azul);
 }
+
+.lista__link:active{
+    color: var(--cinza-secundaria);
+}
+
+.container__botao:hover{
+    background-color: var(--cinza-secundaria);
+    color: var(--cor-fundo);
+}
+
+.container__botaoSec:hover{
+    background-color: var(--cinza-secundaria);
+    color: var(--cor-fundo);
+}
