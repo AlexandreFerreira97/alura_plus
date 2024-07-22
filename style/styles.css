@@ -154,6 +154,7 @@ body{
 .rodape__texto{
     display: flex;
     justify-content: center;
+    text-align: center;
     font-size: 12px;
     margin-bottom: 1rem;
 }
